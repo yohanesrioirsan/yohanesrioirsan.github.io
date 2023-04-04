@@ -10,14 +10,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    padding-left: 25px;
+    padding-right: 25px;
 }  
 
 .content { 
-    height: 550px;
-    width: 550px;
-    justify-content: center;
-    align-items: center;
+    width: 700px;
     color: white;
+    font-size: 14px;
     font-weight: 650;
 }
 
