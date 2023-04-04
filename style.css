@@ -1,6 +1,4 @@
 body { 
-    padding: 0;
-    margin: 0;
     background-color: #2B2727;
     font-family: 'Fira Code';
  }
@@ -15,7 +13,6 @@ body {
 }  
 
 .content { 
-    width: 700px;
     color: white;
     font-size: 14px;
     font-weight: 650;
