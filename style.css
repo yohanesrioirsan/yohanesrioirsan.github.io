@@ -45,7 +45,7 @@ ____________________________ ¶¶¶
 _____________________________ ¶
 ____________________________11,
  */
-body{background-color:#2b2727;font-family:'Fira Code'}.container{display:flex;justify-content:center;align-items:center;height:100vh;padding-left:25px;padding-right:25px}.content{color:#fff;font-size:14px;font-weight:650}.content p{width:50%}.color-one{color:#f9fd4b}.content .color-two{color:#3b64f5}.content a{color:#fff;display:block;text-decoration:none}
+body{background-color:#2b2727;font-family:'Fira Code';overflow:hidden}.container{display:flex;justify-content:center;align-items:center;height:100vh;padding-left:25px;padding-right:25px}.content{display:flex;flex-direction:column;color:#fff;font-size:13px;font-weight:650;justify-content:center;align-items:center}.content p{width:50%}.color-one{color:#f9fd4b}.content .color-two{color:#3b64f5}.content a{color:#fff;display:block;text-decoration:none}
 /*__________________________11,
 _________________________11,
 ___________________________11,
